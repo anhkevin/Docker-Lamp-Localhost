@@ -1,1 +1,8 @@
-# docker-lamp
+# Docker-Lamp-Localhost
+
+
+## Installing
+run:
+```
+docker-compose up
+```
